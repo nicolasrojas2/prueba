@@ -10,7 +10,7 @@ Debe tener instalado npm o yarn en su equipo local, para la instalación de paqu
 ### 1.1. Clone el repositorio:
 
 ```
-$ git clone https://geoprocesar2@bitbucket.org/geoprocesar2/prueba_ingreso.git
+$ git clone https://github.com/desarrollador2geo/prueba_ingreso.git
 ```
 
 ### 1.2. Instalación de paquetes:
