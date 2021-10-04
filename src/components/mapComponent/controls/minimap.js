@@ -5,10 +5,11 @@ const L =require ('leaflet');
 import 'leaflet-minimap';
 import {standard_osm_mm} from '../layers/control-layers'
 
+
 export var minimap= new L.Control.MiniMap(standard_osm_mm, 
 { 
     toggleDisplay: true ,
-    minimized:true,
+    minimized:false,
     position: "bottomleft"
 })
 
